@@ -1,3 +1,4 @@
 # Secure authentication system using NodeJS Express PassportJS MongoDB
 
-Register and login system
+Register and login with password encryption.
+
